@@ -3,7 +3,8 @@
 "description":"stevenのemby", 
 "icons":
     [
-	{"name":"Steven", "url":"https://raw.githubusercontent.com/g-steven037/image/main/images/Steven.jpg"}
+	{"name":"Steven", "url":"https://raw.githubusercontent.com/g-steven037/image/main/images/Steven.jpg"},
+	{"name":"steven2", "url":"https://raw.githubusercontent.com/g-steven037/image/main/images/steven2.jpg"}
 	
     ]
 }
